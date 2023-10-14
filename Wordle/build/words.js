@@ -1,0 +1,347 @@
+export const WORDS = [
+    'spike',
+    'agent',
+    'shoot',
+    'death',
+    'ghost',
+    'melee',
+    'bucky',
+    'judge',
+    'molly',
+    'viper',
+    'reyna',
+    'astra',
+    'gekko',
+    'stim',
+    'smoke',
+    'coach',
+    'toxin',
+    'snake',
+    'venom',
+    'drone',
+    'shock',
+    'recon',
+    'blaze',
+    'drift',
+    'blade',
+    'swift',
+    'paint',
+    'blast',
+    'flash',
+    'blind',
+    'slide',
+    'reset',
+    'seize',
+    'haunt',
+    'decay',
+    'dizzy',
+    'plant',
+    'queue',
+    'haven',
+    'split',
+    'pearl',
+    'lotus',
+    'range',
+    'cubby',
+    'bhall',
+    'lobby',
+    'tower',
+    'sewer',
+    'short',
+    'alley',
+    'spawn',
+    'chute',
+    'elbow',
+    'mound',
+    'ultra',
+    'prime',
+    'prism',
+    'smite',
+    'nunca',
+]
+
+/* 
+1
+
+2
+
+3
+pit
+map
+orb
+res
+eye
+bot
+cat
+hut
+art
+oni
+ego
+ion
+rgx
+
+4
+ares
+odin
+fire
+brim
+jett
+sage
+sova
+yoru
+omen
+raze
+skye
+kayo
+neon
+fade
+fuel
+trip
+cage
+dart
+bolt
+slow
+heal
+leer
+hawk
+suck
+dash
+main
+cove
+mosh
+kill
+team
+solo
+rank
+comp
+bind
+beta
+link
+long
+site
+cave
+ramp
+vent
+wine
+belt
+nest
+cave
+tube
+rope
+club
+tree
+luxe
+rush
+iron
+gold
+gaia
+luna
+
+5
+ghost
+melee
+molly
+cloud
+drone
+stars
+
+6
+shield
+shorty
+frenzy
+weapon
+vandal
+breach
+cypher
+harbor
+strike
+poison
+turret
+techie
+genius
+spycam
+hunter
+savage
+nebula
+divide
+cosmic
+rotate
+middle
+zoomer
+deafen
+marked
+soaked
+thrash
+defuse
+assist
+ascent
+icebox
+breeze
+shower
+garden
+spawn
+heaven
+garage
+rafter
+kitchen
+orange
+boiler
+bridge
+switch
+arcade
+screen
+dugout
+flower
+secret
+pillar
+rubble
+market
+select
+deluxe
+sakura
+convex
+spline
+reaver
+blastx
+minima
+origin
+bronze
+silver
+tigris
+sarmad
+araxys
+
+7
+classic
+sheriff
+bulldog
+marshal
+spectre
+stinger
+phantom
+duelist
+ability
+phoenix
+killjoy
+chamber
+orbital
+shadow
+deadeye
+updraft
+devour
+dismiss
+empress
+boombot
+warhead
+seekers
+fakeout
+stellar
+satchel
+charmer
+prowler
+cascade
+wingman
+unrated
+episode
+window
+canteen
+sidearm
+premium
+horizon
+radiant
+diamond
+neptune
+abyssal
+reverie
+
+8
+guardian
+operator
+sentinel
+paranoia
+revenant
+alarmbot
+lockdown
+trapwire
+watchdog
+barrier
+tailwind
+vendetta
+regrowth
+unmasked
+stardust
+infinite
+fragment
+suppress
+teleport
+fracture
+karambit
+galleria
+infantry
+magepunk
+silvanus
+forsaken
+spectrum
+platinum
+immortal
+protocol
+altitude
+
+9
+initiator
+brimstone
+nanoswarm
+ballistic
+blindside
+gatecrash
+dimension
+dissipate
+trademark
+overdrive
+reckoning
+snowball
+swiftplay
+radianite
+generator
+connector
+waterfall
+aristocrat
+avalanche
+sovereign
+glitchpop
+sensation
+celestial
+ruination
+ascendant
+undercity
+endeavour
+titanmail
+cryostasis
+valorant
+
+10
+controller
+incendiary
+aftershock
+flashpoint
+concussive
+headhunter
+rendezvous
+deathmatch
+primordial
+escalation
+courtyard
+elderflame
+soulstrife
+
+11
+trailblazer
+gatecrasher
+vulnerable
+singularity
+chronovoid
+
+12
+torrential
+replication
+*/
